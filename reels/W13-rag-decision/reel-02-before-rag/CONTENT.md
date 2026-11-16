@@ -3,22 +3,26 @@
 - Publish: 2027-02-14
 - Duration: 40–50 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7eq
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Product Builders
+- Pillar: AI, RAG & Automation
+- Source: Practical Deep Dive + Real Experience
 
 ## Hook
 
-قبل ما تقول “عايزين RAG”، جاوب على أربع أسئلة.
+قبل ما تقول "عايزين RAG"، جاوب على أربع أسئلة.
 
 ## Spoken script
 
-واحد: المعرفة موجودة فين، وهل هي نظيفة ومحدثة؟ اتنين: هل المستخدم يحتاج Source يمكن مراجعته؟ تلاتة: ما تكلفة الإجابة الخطأ؟ أربعة: إزاي هنقيّم الجودة بعد الإطلاق؟ في الـRAG System اللي اشتغلت عليه، الـpipeline لم تكن Model فقط: Chunker يحافظ على الوحدات، Qdrant للتخزين والاسترجاع، Cleaner بصيغة Dry-run، وWorkflow فيه Critique وMetrics للـlatency والـcache. لو مش جاهز تدير المنظومة دي، أنت مش جاهز لـRAG في Production.
+واحد: المعرفة موجودة فين؟ ونضيفة ومتحدّثة ولا لأ؟ اتنين: المستخدم محتاج مصدر يراجع منه الإجابة؟ تلاتة: لو الإجابة طلعت غلط، ده هيكلّفنا إيه؟ أربعة: هنقيّم الجودة إزاي بعد ما ننزل؟ بسأل كده لأن في الـRAG System اللي اشتغلت عليه، الموديل كان حتة واحدة من الموضوع. كان فيه Chunker بيحافظ على الجداول والكود ما يتقسموش، وQdrant للتخزين والاسترجاع، وCleaner بيوريك هيمسح إيه قبل ما يمسح، وWorkflow فيه Critique وMetrics للـlatency والـcache.
 
 ## Closing
 
-ابدأ بمشكلة المعرفة ومعيار النجاح، مش باسم التقنية.
+لو مش جاهز تشغّل كل ده، إنت مش جاهز لـRAG في Production. ابدأ بمشكلة المعرفة ومعيار النجاح، مش باسم التقنية.
 
 ## Caption
 
-Data readiness, citations, risk, and evaluation—before architecture.
+جاهزية البيانات، والمصادر، والمخاطرة، والتقييم. كل ده قبل الـarchitecture.
 
 ## Material checklist
 

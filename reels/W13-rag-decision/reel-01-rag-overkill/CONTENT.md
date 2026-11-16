@@ -3,22 +3,26 @@
 - Publish: 2027-02-12
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ep
+- Platforms: Instagram Reels, TikTok
+- Primary audience: CEOs & Co-founders
+- Pillar: AI, RAG & Automation
+- Source: Real Experience + Fundamentals
 
 ## Hook
 
-إمتى RAG يبقى Overkill؟
+إمتى الـRAG يبقى Overkill؟
 
 ## Spoken script
 
-لو عندك عشر إجابات ثابتة، محتوى قليل نادرًا ما يتغير، أو Workflow يمكن حله بقواعد واضحة، فالـRAG قد يضيف تكلفة من غير قيمة. أنت هتدير Chunking وEmbeddings وVector Database وEvaluation وMonitoring. خبرتي ببناء Pipeline كاملة علّمتني إن الـRAG مناسب لما المعرفة كبيرة أو متغيرة، والسؤال يحتاج استرجاعًا مرنًا مع مصدر. غير كده، Search جيد أو FAQ منظمة قد تكون أفضل.
+مش كل chatbot محتاج RAG. لو عندك عشر أسئلة إجاباتها ثابتة، أو محتوى قليل ما بيتغيرش كتير، أو workflow تتحل بقواعد واضحة، الـRAG هيزود عليك تكلفة من غير ما يزود قيمة. لأنك مش بتضيف feature. إنت بتلتزم بـChunking، وEmbeddings، وVector Database، وEvaluation، وMonitoring. أنا بنيت الـpipeline دي كاملة، وعارف هي محتاجة إيه عشان تفضل شغالة. الـRAG مكانه لما المعرفة كبيرة أو بتتغير، والسؤال محتاج استرجاع مرن ومعاه مصدر. غير كده، Search كويس أو FAQ مترتبة ممكن يكفّوا.
 
 ## Closing
 
-اختار أبسط نظام يحقق مستوى الثقة المطلوب.
+اختار أبسط نظام يوصّلك لمستوى الثقة اللي محتاجه.
 
 ## Caption
 
-Don’t buy a retrieval pipeline for a rules problem.
+ما تبنيش retrieval pipeline لمشكلة حلها شوية قواعد.
 
 ## Material checklist
 

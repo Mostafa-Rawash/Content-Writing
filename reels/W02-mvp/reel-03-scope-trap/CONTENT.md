@@ -3,22 +3,26 @@
 - Publish: 2026-12-01
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7e1
+- Platforms: Instagram Reels, TikTok
+- Primary audience: CEOs & Co-founders
+- Pillar: Real Experiences & Lessons
+- Source: Real Experience
 
 ## Hook
 
-أشهر Scope Trap عند الـFounders: “طالما بنبني… نزود دي كمان.”
+أخطر جملة بيقولها Founder: "طالما بنبني… نزود دي كمان."
 
 ## Spoken script
 
-كل Feature لوحدها شكلها صغيرة. لكن لما تجمع Auth، Roles، Analytics، Payments، Integrations، وAI، أنت ما زودتش ست Features؛ أنت ضاعفت احتمالات التعطّل بينها. ده ظهر بوضوح في تجربتي مع AutoFlow: الـprototype يقدر يثبت إن أفكار كثيرة ممكنة، لكنه لا يثبت إن المنتج جاهز للإطلاق. اعمل قائمة “Not Now”، وحدد Release Goal واحد، وأي Feature لا تخدم الهدف مباشرة تتأجل.
+كل feature لوحدها شكلها صغيرة. يومين شغل وخلاص. بس لما تحط Auth، وRoles، وAnalytics، وPayments، وIntegrations، وAI جنب بعض، إنت ما زودتش ست حاجات. إنت زودت كل الطرق اللي ممكن يبوّظوا بيها بعض. شفت ده في AutoFlow: الـprototype أثبت لي إن أفكار كتير ممكن تتعمل، بس ما أثبتش إن المنتج جاهز ينزل. اللي اتعلمته: هدف واحد للإصدار، وقايمة اسمها "Not Now". أي feature مش بتخدم الهدف مباشرة تروح القايمة.
 
 ## Closing
 
-الـScope ما بيكبرش Feature وراء Feature؛ بيكبر Interaction وراء Interaction.
+الـscope مش بيكبر feature ورا feature. بيكبر بكل علاقة جديدة بينهم.
 
 ## Caption
 
-احمِ هدف الإصدار بقائمة واضحة اسمها Not Now.
+احمي هدف الإصدار بقايمة اسمها Not Now.
 
 ## Material checklist
 

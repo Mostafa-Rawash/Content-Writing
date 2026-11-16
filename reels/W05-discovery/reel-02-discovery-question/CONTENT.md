@@ -3,18 +3,22 @@
 - Publish: 2026-12-20
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7e7
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Product Builders
+- Pillar: Product Management & Business
+- Source: Fundamentals + Real Experience
 
 ## Hook
 
-Product Discovery مش Workshop مليانة Sticky Notes.
+الـProduct Discovery مش Workshop مليانة Sticky Notes.
 
 ## Spoken script
 
-الـDiscovery يبدأ بسؤال قابل للاختبار: لماذا المستخدم لا يكمل؟ هل السبب ثقة، تعقيد، أو قيمة غير واضحة؟ بعدها تجمع دليل مناسب: مقابلة، Funnel، Session Recording، أو تجربة A/B. في تجربتي مع CRO، تقسيم الـlanding pages حسب نوع الجمهور كان مبنيًا على فكرة بسيطة: مش كل عميل يدخل بنفس الدافع. الـworkshop ممكن تساعد، لكن من غير سؤال ودليل وقرار بعدها تبقى Activity، مش Discovery.
+الـDiscovery بيبدأ بسؤال ينفع يتختبر. مثلًا: ليه المستخدم بيبدأ وما بيكملش؟ مش واثق؟ الخطوات معقدة؟ ولا القيمة مش واضحة له؟ وبعدين تدوّر على الدليل المناسب: مقابلة، Funnel، Session Recording، أو تجربة A/B. لما اشتغلت على الـCRO، الـlanding pages اتقسمت حسب نوع الجمهور. والفكرة وراها بسيطة: مش كل عميل داخل بنفس الدافع. الـworkshop ممكن تساعد، ماشي. بس لو مفيش سؤال قبلها ولا قرار بعدها، دي Activity لطيفة، مش Discovery.
 
 ## Closing
 
-كل Discovery لازم ينتهي بما تعلّمناه وما الذي سيتغيّر.
+أي Discovery لازم يخلص بجملتين: اتعلمنا إيه، وإيه اللي هيتغير.
 
 ## Caption
 

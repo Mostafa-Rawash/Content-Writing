@@ -12,7 +12,7 @@
 - English Title:
 - Series: Your Brain Is The Product
 - Content Pillar:
-- Target Audience: Product builders, PMs, founders, developers, students, and behavior-curious audiences
+- Primary Audience: ONE of Product Builders / CEOs & Co-founders / Students & Beginners (see `../BRAND_VOICE.md` §3)
 
 ## Content Strategy
 

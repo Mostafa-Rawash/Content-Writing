@@ -3,22 +3,26 @@
 - Publish: 2027-01-31
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ek
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Product Builders
+- Pillar: Real Experiences & Lessons
+- Source: Real Experience
 
 ## Hook
 
-إزاي تعمل Handoff من غير ما الـContext يضيع؟
+إزاي تسلّم شغل من غير ما الـContext يضيع في السكة؟
 
 ## Spoken script
 
-ما تسلّمش Task بعنوان “اعمل Integration”. سلّم خمسة أشياء: المشكلة، المستخدم، الـoutcome، القيود، ومعيار القبول. أضف القرارات اللي اتاخدت والبدائل اللي اترفضت وليه. خبرتي بين إدارة المنتج والتنفيذ علمتني إن الفريق نادرًا يحتاج تفاصيل أكثر بقدر ما يحتاج سبب القرار. لما الـWhy واضح، المهندس يقدر ياخد قرارات صغيرة من غير ما يرجع لك كل ساعة.
+لو سلّمت Task عنوانها "اعمل Integration" وبس، استنى أسئلة كل ساعة. أو أسوأ: محدش يسأل، ويتبني حاجة تانية خالص. سلّم خمس حاجات: المشكلة، المستخدم، الـoutcome، القيود، وإمتى نقول "خلصت". وزوّد عليهم القرارات اللي اتاخدت، والبدائل اللي اترفضت وليه. من شغلي بين الـProduct والتنفيذ، الفريق قليل لما بيبقى محتاج تفاصيل أكتر. هو محتاج يعرف القرار اتاخد ليه. لما الـWhy واضح، المهندس بياخد القرارات الصغيرة لوحده.
 
 ## Closing
 
-الـHandoff الجيد ينقل سلطة القرار مع السياق، مش قائمة أوامر.
+الـHandoff الكويس بيسلّم الـcontext ومعاه حق القرار، مش قايمة أوامر.
 
 ## Caption
 
-Problem + outcome + constraints + acceptance criteria + decision history.
+المشكلة + الـoutcome + القيود + معيار القبول + تاريخ القرارات.
 
 ## Material checklist
 

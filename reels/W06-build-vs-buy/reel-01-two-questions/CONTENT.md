@@ -3,22 +3,26 @@
 - Publish: 2026-12-25
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7e8
+- Platforms: Instagram Reels, TikTok
+- Primary audience: CEOs & Co-founders
+- Pillar: Product Management & Business
+- Source: Fundamentals + Real Experience
 
 ## Hook
 
-Build ولا Buy؟ ابدأ بسؤالين.
+نبني ولا نشتري؟ قبل ما تقارن أسعار، جاوب على سؤالين.
 
 ## Spoken script
 
-السؤال الأول: هل ده جزء يميز منتجك فعلًا؟ السؤال الثاني: هل عندك القدرة تصونه بعد الإطلاق؟ لو الأداة Commodity ومورّد موثوق يغطي احتياجك، الشراء غالبًا أسرع. لكن لو الـworkflow هو قلب القيمة أو يحتاج تكاملًا خاصًا، البناء قد يكون منطقيًا. أنا بنيت Integrations وأنظمة داخلية، وشفت إن تكلفة الحل لا تنتهي عند أول Release. فيه Monitoring، Security، Changes، ودعم مستمر.
+الأول: الحتة دي هي اللي بتميّز منتجك فعلًا؟ التاني: عندك اللي يصونها بعد ما تنزل؟ لو دي حاجة شركات كتير محتاجاها زيك، وفيه مورّد موثوق مغطيها، الشراء غالبًا أسرع. إنما لو الـworkflow ده هو قلب القيمة اللي بتبيعها، أو محتاج تكامل خاص بيك، ساعتها البناء له منطق. أنا بنيت Integrations وأنظمة داخلية، وشفت إن التكلفة ما بتخلصش عند أول Release. بعدها فيه Monitoring، وSecurity، وتعديلات، ودعم مستمر.
 
 ## Closing
 
-ما تقارنش سعر الاشتراك بتكلفة التطوير الأولى؛ قارن Total Cost of Ownership.
+ما تقارنش سعر الاشتراك بتكلفة أول نسخة. قارن الـTotal Cost of Ownership.
 
 ## Caption
 
-الميزة التنافسية والقدرة على الصيانة هما بداية القرار.
+بتميّزك؟ وتقدر تصونها؟ من هنا القرار بيبدأ.
 
 ## Material checklist
 

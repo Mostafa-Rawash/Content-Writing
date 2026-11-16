@@ -3,6 +3,10 @@
 - Publish: 2027-01-17
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ef
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Product Builders
+- Pillar: Software Engineering & System Design
+- Source: Fundamentals + Real Experience
 
 ## Hook
 
@@ -10,15 +14,15 @@
 
 ## Spoken script
 
-مش لازم تسدد كل الدين، ومش صح تتجاهله كله. رتّبه حسب أثره: هل يمنع Feature مهمة؟ يسبب أعطالًا متكررة؟ يرفع تكلفة كل تعديل؟ أو يمثل خطر Security؟ لو الإجابة نعم، اربطه بموعد Business واضح وخليه جزءًا من الخطة. أما إعادة كتابة جزء مستقر لمجرد إن الكود مش جميل، فغالبًا مش الأولوية. في DevOps والأنظمة الإنتاجية، الإصلاح الأفضل هو اللي يقلل مخاطرة أو وقتًا متكررًا بشكل قابل للقياس.
+مش لازم تسدده كله، ومش صح تطنشه كله. رتّبه بأثره. بيمنع feature مهمة؟ بيعمل أعطال بتتكرر؟ بيغلّي أي تعديل؟ ولا فيه خطر Security؟ لو آه في أي واحدة، اربطه بميعاد business واضح، ودخّله في الخطة زيه زي أي شغل. إنما إنك تعيد كتابة حتة مستقرة وشغالة عشان الكود "مش عاجبك"، ده غالبًا مش وقته. في الـDevOps والأنظمة اللي شغالة production، أحسن إصلاح هو اللي بيقلل مخاطرة أو وقت بيتكرر، وتقدر تقيسه.
 
 ## Closing
 
-سدّد الدين اللي يمنع الحركة، مش اللي يزعج ذوقك فقط.
+سدّد الدين اللي موقّفك، مش اللي مضايق ذوقك.
 
 ## Caption
 
-Prioritize debt by business impact.
+رتّب الـDebt بأثره على الـbusiness.
 
 ## Material checklist
 

@@ -3,18 +3,22 @@
 - Publish: 2026-12-06
 - Duration: 30–40 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7e3
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Students & Beginners
+- Pillar: Simplified Technology & Career Education
+- Source: Practical Deep Dive
 
 ## Hook
 
-RAG Pipeline في 30 ثانية.
+الـRAG مش prompt شاطر. ده pipeline كامل، وهقولهولك في 30 ثانية.
 
 ## Spoken script
 
-واحد: نجمع المحتوى من مصادره. اتنين: ننضفه ونقسّمه بعناية—وفي الـchunker اللي اشتغلت عليه كنا نحافظ على الجداول والكود والقوائم كوحدات ما تتقسمش. تلاتة: نحول الـchunks إلى embeddings ونخزنها في Vector Database زي Qdrant. أربعة: عند السؤال، نسترجع أنسب أجزاء. خمسة: الموديل يصيغ إجابة من السياق. وستة: نراجع الجودة ونراقب الـlatency والـcache. الـRAG System مش Prompt؛ هو Pipeline كامل.
+واحد: بنجمع المحتوى من مصادره. اتنين: بننضفه ونقسمه حتت صغيرة اسمها chunks. وهنا تفصيلة بتفرق: في الـchunker اللي اشتغلت عليه، الجدول والكود والقايمة ما بيتقسموش من النص. تلاتة: بنحوّل الـchunks لـembeddings ونخزنها في Vector Database زي Qdrant. أربعة: لما ييجي سؤال، بنرجّع أقرب أجزاء ليه. خمسة: الموديل بيكتب الإجابة من الأجزاء دي. ستة: بنراجع الجودة ونراقب الـlatency والـcache.
 
 ## Closing
 
-جودة الإجابة تبدأ قبل ما السؤال يوصل للموديل.
+جودة الإجابة بتتحدد قبل ما السؤال يوصل للموديل أصلًا.
 
 ## Caption
 

@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Product Builders
 
 ## Content Strategy
 
@@ -63,7 +64,7 @@ Investigative and firm, without accusing named companies. Use the feeling of a U
 
 ### Caption
 
-التصميم يؤثر في الاختيار، لكن الـdark patterns تضعف الاستقلالية أو تدفع الناس لقرارات ليست في مصلحتهم. قيّم الشفافية، سهولة الرفض، وإمكانية الرجوع.
+أي تصميم بيأثر في الاختيار. بس الـdark patterns بتضعف حرية الاختيار، أو بتزق الناس لقرارات مش في مصلحتهم. قيّم الشفافية، وسهولة الرفض، وإمكانية الرجوع في القرار.
 
 ### Verified reference notes
 

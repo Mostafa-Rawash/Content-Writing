@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Product Builders
 
 ## Content Strategy
 
@@ -63,7 +64,7 @@ Clear product-design comparison with ethical seriousness. Avoid casino-style sen
 
 ### Caption
 
-لا تضع كل المفاجآت في صندوق واحد. قيّم البنية: المقابل المدفوع، وضوح الاحتمالات، حدود الخسارة، وسهولة التوقف. أي حكم قانوني أو شرعي يحتاج تفاصيل ومصدرًا مختصًا.
+ما تحطش كل المفاجآت في صندوق واحد. بص على التفاصيل: فيه فلوس مدفوعة؟ الاحتمالات واضحة؟ فيه حد للخسارة؟ والتوقف سهل؟ وأي حكم قانوني أو شرعي محتاج تفاصيل ومصدر متخصص.
 
 ### Reference notes
 

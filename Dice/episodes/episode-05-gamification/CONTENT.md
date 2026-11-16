@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: CEOs & Co-founders
 
 ## Content Strategy
 
@@ -64,7 +65,7 @@ Founder-friendly and practical. Sound fascinated by the design craft, but skepti
 
 ### Caption
 
-النقاط والـbadges والـleaderboards أدوات، وليست استراتيجية وحدها. ابدأ بهدف المستخدم، ثم اختر الـmechanic التي تجعل التقدم أوضح وتقدم feedback مفيدًا.
+الـpoints والـbadges والـleaderboards أدوات، مش استراتيجية لوحدها. ابدأ بهدف المستخدم، وبعدين اختار الـmechanic اللي تخلي التقدم أوضح وتدي feedback مفيد.
 
 ### Verified reference notes
 

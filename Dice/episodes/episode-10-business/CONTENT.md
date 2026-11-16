@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: CEOs & Co-founders
 
 ## Content Strategy
 
@@ -62,7 +63,7 @@ Commercially sharp and metric-literate. Speak like a PM explaining a causal chai
 
 ### Caption
 
-الـGamification ليست business model. اربط الـmechanic بسلوك مفيد، ثم بقيمة حقيقية للمستخدم، ثم اختبر أثرها على metric مناسبة—من غير خلط الارتباط بالسببية.
+الـGamification مش business model. اربط الـmechanic بسلوك مفيد، وبعدين بقيمة حقيقية للمستخدم، وبعدين اختبر أثرها على metric مناسبة، من غير ما تخلط الارتباط بالسببية.
 
 ### Reference notes
 

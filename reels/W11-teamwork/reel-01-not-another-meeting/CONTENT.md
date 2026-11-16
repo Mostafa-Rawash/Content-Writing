@@ -3,6 +3,10 @@
 - Publish: 2027-01-29
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ej
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Product Builders
+- Pillar: Real Experiences & Lessons
+- Source: Real Experience
 
 ## Hook
 
@@ -10,15 +14,15 @@
 
 ## Spoken script
 
-ممكن تكون قرارًا غير موثق، Owner غير واضح، أو Requirement فيها افتراضات مختلفة. إضافة Meeting جديدة بتكرر الكلام، لكنها لا تصلح مصدر الغموض. لما قدت فرقًا ومشاريع عبر Product وEngineering، كان المفيد هو تحديد: ما القرار؟ من يملكه؟ ما الدليل؟ ومتى نراجعه؟ اكتب السياق قبل الاجتماع، واخرج منه بقرار وOwner وموعد. غير كده، أنت حجزت وقتًا من غير ما تقلل عدم اليقين.
+أول ما حاجة تتلخبط، حد بيقول "نعمل Meeting". الـcalendar يتملي، والمشكلة قاعدة مكانها. لأن اللي ناقص مش كلام. اللي ناقص قرار محدش كتبه، أو Owner مش معروف، أو Requirement كل واحد فاهمها بشكل. الـMeeting الزيادة بتعيد نفس الكلام، وما بتصلّحش مصدر اللخبطة. لما كنت مسؤول عن فرق بين الـProduct والـEngineering، اللي كان بيفرق أربع حاجات: إيه القرار؟ مين صاحبه؟ إيه الدليل؟ وإمتى نراجعه؟ اكتب الـcontext قبل الاجتماع، واطلع منه بقرار وOwner وميعاد.
 
 ## Closing
 
-قبل ما تعمل Meeting، اسأل: ما القرار الذي لا نستطيع أخذه كتابةً؟
+قبل ما تحجز Meeting، اسأل: إيه القرار اللي مش عارفين ناخده كتابة؟
 
 ## Caption
 
-Meetings should close decisions, not store context.
+الـMeeting بيقفل قرار، مش بيخزّن context.
 
 ## Material checklist
 

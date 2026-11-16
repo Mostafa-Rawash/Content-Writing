@@ -3,18 +3,22 @@
 - Publish: 2027-02-05
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7em
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Students & Beginners
+- Pillar: Simplified Technology & Career Education
+- Source: Fundamentals
 
 ## Hook
 
-لما تضغط Submit، إيه اللي بيحصل لحد الـDatabase؟
+لما بتدوس Submit، إيه اللي بيحصل لحد ما البيانات توصل الـDatabase؟
 
 ## Spoken script
 
-الـfrontend يجمع البيانات ويتأكد من الأساسيات، ثم يرسل HTTP Request للـbackend. السيرفر يتحقق من الهوية والصلاحيات والبيانات، وينفذ منطق الـbusiness. بعدها يتعامل مع الـdatabase: قراءة أو كتابة داخل قواعد تحافظ على الاتساق. النتيجة ترجع Response، والـfrontend يحدّث الشاشة. في تطبيقات Flask وFrappe وNode.js اللي اشتغلت عليها، التفاصيل تختلف لكن الرحلة واحدة: UI، API، Logic، Database، Response.
+إنت بتملى form وتدوس الزرار. وفي لحظة بيحصل كل ده. الـfrontend بيجمع البيانات ويتأكد من الأساسيات، ويبعت HTTP Request للـbackend. السيرفر بيسأل: إنت مين؟ مسموح لك تعمل كده؟ والبيانات دي سليمة؟ وبعدين ينفّذ منطق الـbusiness. بعدها يكلّم الـdatabase، يقرا أو يكتب، بقواعد تمنع إن البيانات تتلخبط. وترجع Response، والـfrontend يحدّث الشاشة قدامك. اشتغلت على تطبيقات بـFlask وFrappe وNode.js. التفاصيل بتختلف، بس الرحلة هي هي: UI، API، Logic، Database، Response.
 
 ## Closing
 
-فهم الرحلة دي يخليك تشخّص الخطأ بدل ما تقول “الموقع مش شغال”.
+لما تفهم الرحلة دي، هتعرف الغلط فين بدل ما تقول "الموقع مش شغال".
 
 ## Caption
 

@@ -3,22 +3,26 @@
 - Publish: 2027-01-03
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7eb
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Product Builders
+- Pillar: Software Engineering & System Design
+- Source: Fundamentals + Real Experience
 
 ## Hook
 
-الـBreaking Change مش مشكلة Developers بس.
+الـBreaking Change مش مشكلة الـDevelopers لوحدهم.
 
 ## Spoken script
 
-لما تغيّر API ويقع Integration، المستخدم لا يرى “تغيير تقني”؛ يرى Feature توقفت. لذلك الـversioning والـdeprecation plan قرارات Product كمان. حدد مين متأثر، ادّي وقت للانتقال، راقب الاستخدام القديم، ووفر Migration Guide. في الأنظمة المرتبطة بخدمات خارجية—من ERP إلى WhatsApp—كل تغيير له أثر على عمليات حقيقية. النجاح مش إن النسخة الجديدة اشتغلت؛ النجاح إن العملاء انتقلوا من غير تعطّل غير مقبول.
+لما تغيّر API وIntegration يقع، العميل مش بيشوف "تغيير تقني". بيشوف feature كانت شغالة ووقفت. عشان كده الـversioning والـdeprecation plan قرارات Product، مش تفاصيل هندسية. قبل ما تغيّر، اسأل: مين هيتأثر؟ هنديهم وقت قد إيه ينقلوا؟ هنعرف منين إن لسه فيه حد على القديم؟ وفيه Migration Guide، ولا هيتصرفوا لوحدهم؟ في الأنظمة المربوطة بخدمات بره، من ERP لـWhatsApp، أي تغيير بيلمس شغل حقيقي عند ناس حقيقية.
 
 ## Closing
 
-لو التغيير يحتاج من عميلك عملًا، فهو جزء من تجربة المنتج.
+النجاح مش إن النسخة الجديدة اشتغلت. النجاح إن العملاء نقلوا عليها من غير ما شغلهم يقف.
 
 ## Caption
 
-Manage migration like a product launch.
+التغيير اللي بيطلب من عميلك شغل، ده جزء من تجربة المنتج.
 
 ## Material checklist
 

@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Students & Beginners
 
 ## Content Strategy
 
@@ -64,7 +65,7 @@ Relatable and self-aware—not alarmist. Act out the automatic phone check with 
 
 ### Caption
 
-بعض أنماط استخدام السوشيال ميديا يمكن دراستها من خلال reward learning، لكن سلوك البشر لا يختزل في loop واحدة. راقب الـcue، وحدد هدفك، وتحكم في الإشعارات التي لا تخدمك.
+بعض أنماط استخدامنا للسوشيال ميديا ممكن تتدرس بمنطق الـreward learning. بس سلوك البني آدم ما يتلخصش في loop واحدة. راقب الـcue، حدد إنت داخل ليه، واقفل الإشعارات اللي مش بتخدمك.
 
 ### Verified reference notes
 

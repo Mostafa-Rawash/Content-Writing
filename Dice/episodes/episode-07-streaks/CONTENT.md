@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Product Builders
 
 ## Content Strategy
 
@@ -64,7 +65,7 @@ Confessional and lightly comic at first, then analytical. Treat streaks as a des
 
 ### Caption
 
-الـstreak قد تجعل التقدم مرئيًا وتدعم الاستمرارية، لكنها ليست العادة نفسها. صمّم recovery يحمي هدف المستخدم بدل أن يعاقبه على يوم ضائع.
+الـstreak ممكن تخلي التقدم باين وتساعد على الاستمرار، بس هي مش العادة نفسها. صمّم recovery يحمي هدف المستخدم، بدل ما تعاقبه على يوم فاته.
 
 ### Source notes
 

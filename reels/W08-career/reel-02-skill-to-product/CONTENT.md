@@ -3,22 +3,26 @@
 - Publish: 2027-01-10
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ed
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Students & Beginners
+- Pillar: Real Experiences & Lessons
+- Source: Real Experience
 
 ## Hook
 
-الـSkill اللي نقلتني من Development للـProduct مش Tool جديد.
+اللي نقلني من الـDevelopment للـProduct ما كانش Tool جديد اتعلمته.
 
 ## Spoken script
 
-كانت القدرة على ربط التفاصيل التقنية بقرار Business. كمطور، السؤال غالبًا: إزاي ننفذ؟ لكن كـProduct Manager لازم تسأل كمان: ليه الآن؟ لمين؟ وإيه النجاح؟ لما قدت Roadmaps وفرقًا ومشاريع AI، الخلفية التقنية ساعدتني أقدّر المخاطر، لكن الانتقال الحقيقي حصل لما بقيت أشرح الـtrade-offs وأحدد Outcome بدل ما أركز على التنفيذ فقط.
+كان إني بقيت أربط التفصيلة التقنية بقرار business. وأنا developer، السؤال اللي في دماغي كان: هننفذها إزاي؟ وده سؤال مهم. بس الـProduct Manager لازم يسأل قبله: ليه دلوقتي؟ لمين؟ وهنعرف منين إنها نجحت؟ لما بقيت مسؤول عن roadmap وفريق ومشاريع AI، الخلفية التقنية نفعتني أقدّر المخاطر. بس النقلة الحقيقية حصلت لما بقيت أشرح الـtrade-offs وأحدد outcome، بدل ما كل تركيزي يبقى على التنفيذ.
 
 ## Closing
 
-لو عايز تنتقل للـProduct، درّب نفسك على صياغة القرار، مش عرض الحل فقط.
+عايز تروح للـProduct؟ اتمرن تشرح القرار، مش تعرض الحل بس.
 
 ## Caption
 
-From “How?” to “Why now, for whom, and how will we know?”
+من "إزاي؟" لـ"ليه دلوقتي؟ لمين؟ وهنعرف منين؟"
 
 ## Material checklist
 

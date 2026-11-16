@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Product Builders
 
 ## Content Strategy
 
@@ -64,7 +65,7 @@ Suspenseful in the demonstration, grounded in the explanation. Use “ممكن�
 
 ### Caption
 
-المكافآت غير المتوقعة قد تؤثر في تكرار السلوك، لكن “عشوائي” لا يعني تلقائيًا “إدماني” أو “قمار.” السياق، التكلفة، الشفافية، والفروق الفردية كلها مهمة.
+المكافأة اللي مش متوقعة ممكن تأثر في تكرار السلوك. بس “عشوائي” مش معناها تلقائيًا “إدمان” أو “قمار”. السياق، والتكلفة، والشفافية، والفروق بين الناس، كلها بتفرق.
 
 ### Verified reference notes
 

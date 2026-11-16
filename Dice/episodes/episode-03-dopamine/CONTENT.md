@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Students & Beginners
 
 ## Content Strategy
 
@@ -65,7 +66,7 @@ Myth-busting without sounding smug. Energetic in the hook, calm and exact in the
 
 ### Caption
 
-الدوبامين ليس “مادة السعادة” في جملة واحدة. دوره أوسع، ومنه الإسهام في التعلّم والدافع وتحديث توقعات المكافأة. التبسيط مفيد؛ الاختزال المضلل مش مفيد.
+الدوبامين مش “مادة السعادة” وخلاص. دوره أوسع من كده، ومنه إنه بيساهم في التعلّم والدافع وتحديث توقعاتنا للمكافأة. التبسيط مفيد، إنما الاختزال اللي يضلل لأ.
 
 ### Verified reference notes
 

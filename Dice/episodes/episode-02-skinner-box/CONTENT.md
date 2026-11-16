@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Students & Beginners
 
 ## Content Strategy
 
@@ -66,7 +67,7 @@ Playful experimenter. Start theatrical, then become precise and explanatory. Nev
 
 ### Caption
 
-الـSkinner Box يشرح مبدأ مهم: نتائج السلوك قد تغيّر احتمال تكراره. لكنه نموذج معملي، مش وصف كامل للإنسان أو دليل إن أي تطبيق “بيتحكم” فيك.
+الـSkinner Box بيشرح مبدأ مهم: نتيجة السلوك ممكن تغيّر احتمال تكراره. بس ده نموذج معملي، مش وصف كامل للإنسان، ولا دليل إن أي تطبيق “بيتحكم” فيك.
 
 ### Verified reference notes
 

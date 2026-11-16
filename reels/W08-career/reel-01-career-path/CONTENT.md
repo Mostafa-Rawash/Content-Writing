@@ -4,6 +4,9 @@
 - Duration: 40–50 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ec
 - Platforms: Instagram Reels, TikTok
+- Primary audience: Students & Beginners
+- Pillar: Real Experiences & Lessons
+- Source: Real Experience
 
 ## Hook
 
@@ -11,15 +14,15 @@
 
 ## Spoken script
 
-أنا بدأت في 2020 بين Project Coordination وFront-end Development. بعدها اشتغلت Software Engineering، WordPress، Freelance Projects، وأنظمة AI، ثم انتقلت إلى Technical Product Management. من بعيد، المسار ممكن يبدو متشعب. لكن الخيط المشترك كان واحد: أفهم المشكلة، أبني الحل، وأنسّق الناس والقرارات حوله. كل مرحلة أضافت طبقة—التنفيذ علّمني القيود، وإدارة المنتج علّمتني الاختيار. مش لازم كل خطوة تغيّر عنوانك للأعلى؛ المهم إنها تراكم قدرة لها اتجاه.
+أنا بدأت في 2020، بين Project Coordination وFront-end. بعدها Software Engineering، وWordPress، وشغل Freelance، وأنظمة AI، وبعدين Technical Product Management. لو بصيت على المسار ده من بعيد، هتقول: ده متشعب قوي. بس لما ببص عليه دلوقتي، بلاقي خيط واحد ماشي فيه كله: أفهم المشكلة، أبني الحل، وأجمّع الناس والقرارات حواليه. التنفيذ علّمني القيود. والـProduct علّمني أختار. مش لازم كل خطوة تديك title أعلى. المهم إنها تزوّد حاجة في نفس الاتجاه.
 
 ## Closing
 
-ابحث عن الخيط المشترك في خبراتك، مش عن خط مستقيم.
+دوّر على الخيط اللي رابط خبراتك، مش على الخط المستقيم.
 
 ## Caption
 
-Your path can zigzag and still compound.
+المسار ممكن يتعرّج، ويفضل بيبني على بعضه.
 
 ## Material checklist
 

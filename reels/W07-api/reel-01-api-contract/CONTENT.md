@@ -3,22 +3,26 @@
 - Publish: 2027-01-01
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7ea
+- Platforms: Instagram Reels, TikTok
+- Primary audience: Students & Beginners
+- Pillar: Simplified Technology & Career Education
+- Source: Fundamentals + Real Experience
 
 ## Hook
 
-الـAPI مش مجرد Endpoint؛ هي عقد.
+الـAPI مش مجرد Endpoint. الـAPI عقد.
 
 ## Spoken script
 
-العقد بيحدد ماذا ترسل، ماذا تستقبل، وما الذي يحدث عند الخطأ. لما تبني Integrations بين WordPress وERP، أو WhatsApp وخدمة خلفية، أي غموض في العقد يتحول إلى Bugs بين الفرق. عرّف الـschema، الـstatus codes، الـtimeouts، والـversioning قبل ما تعتمد عليه أنظمة ثانية. أنا اشتغلت على Integrations متعددة، وأكتر شيء يحمي المنتج مش إن الـendpoint يشتغل اليوم؛ إن سلوكه يفضل متوقعًا بكرة.
+تخيل اتنين اتفقوا على شغل بالكلام بس. أول مشكلة تحصل، كل واحد هيقول "أنا فهمت حاجة تانية". الـAPI نفس الحكاية بين نظامين. العقد بيقول: هتبعتلي إيه، هرد عليك بإيه، ولو حصل غلط هيحصل إيه. لما بتربط WordPress بـERP، أو WhatsApp بخدمة في الـbackend، أي حاجة مش واضحة في العقد بتتحول لـBugs بين الفرق. عشان كده بنتفق على الـschema، والـstatus codes، والـtimeouts، والـversioning من الأول. من شغلي على Integrations: المهم مش إن الـendpoint يشتغل النهارده. المهم إنه يفضل يتصرف بنفس الشكل بكرة.
 
 ## Closing
 
-API واضحة تقلل الاجتماعات قبل ما تقلل الأخطاء.
+API واضحة بتقلل الاجتماعات قبل ما تقلل الـBugs.
 
 ## Caption
 
-Contract first, endpoint second.
+العقد الأول، وبعدين الـendpoint.
 
 ## Material checklist
 

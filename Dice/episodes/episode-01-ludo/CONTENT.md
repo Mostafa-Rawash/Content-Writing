@@ -6,6 +6,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Students & Beginners
 - Platforms: Instagram Reels, TikTok, YouTube Shorts
 
 ## Content Strategy
@@ -75,7 +76,7 @@ Curious and respectful, like opening a question with a friend—not issuing a fa
 
 ### Caption
 
-هل كل لعبة فيها نرد لها نفس الحكم؟ الحلقة لا تصدر فتوى؛ هي تفرّق بين نص الحديث، تطبيق العلماء له، وبين تفسير علم السلوك لعدم اليقين. ارجع لعالم موثوق في الحكم الذي تعمل به.
+هل كل لعبة فيها نرد لها نفس الحكم؟ الحلقة دي مش فتوى. هي بتفرّق بين نص الحديث، وتطبيق العلماء له، وتفسير علم السلوك لعدم اليقين. في الحكم اللي هتعمل بيه، ارجع لعالم تثق فيه.
 
 ### Verified reference notes
 

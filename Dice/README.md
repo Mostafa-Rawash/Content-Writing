@@ -9,7 +9,7 @@ An educational short-form series about neuroscience, behavioral psychology, gami
 
 - Language: Egyptian Arabic with English technical terminology
 - Tone: conversational, story-driven, curious, lightly humorous, and non-academic
-- Audience: Product builders, PMs, founders, developers, students, and general audiences interested in behavior
+- Audience: each episode has ONE primary audience from `../BRAND_VOICE.md` (see Brand alignment below); the series as a whole also reaches general audiences interested in behavior
 - Platforms: Instagram Reels, TikTok, YouTube Shorts
 - Cadence: one episode per week for 12 weeks
 - Target duration: 45–75 seconds
@@ -21,6 +21,29 @@ An educational short-form series about neuroscience, behavioral psychology, gami
 2. Neuroscience
 3. Behavioral Psychology & Gamification
 4. Business & Product Design
+
+## Brand alignment
+
+Voice and script rules come from `../BRAND_VOICE.md`. This is a side series next to the main Reel library in `../reels/`.
+
+| Episode | Primary audience | Closest brand pillar |
+|---:|---|---|
+| 01 | Students & Beginners | Series-specific (Religion & Ethics) |
+| 02 | Students & Beginners | Series-specific (Behavioral Psychology) |
+| 03 | Students & Beginners | Series-specific (Neuroscience) |
+| 04 | Product Builders | Series-specific (Behavioral Psychology) |
+| 05 | CEOs & Co-founders | Product Management & Business |
+| 06 | Students & Beginners | Series-specific (Behavioral Psychology) |
+| 07 | Product Builders | Product Management & Business |
+| 08 | Product Builders | Product Management & Business |
+| 09 | Product Builders | Product Management & Business |
+| 10 | CEOs & Co-founders | Product Management & Business |
+| 11 | Product Builders | Product Management & Business |
+| 12 | Product Builders | Product Management & Business |
+
+- Episodes 01–04 and 06 sit outside the five brand pillars (religion, neuroscience, behavioral psychology). They are researched information, not personal experience, and must be presented that way.
+- The brand brief requires verified facts for religious and scientific claims; `RESEARCH_CHECKLIST.md` is that gate.
+- Spoken scripts and captions are in natural Egyptian Arabic. Keep that when editing.
 
 ## Roadmap
 

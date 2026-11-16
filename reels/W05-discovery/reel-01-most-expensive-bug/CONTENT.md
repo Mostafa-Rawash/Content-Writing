@@ -3,6 +3,10 @@
 - Publish: 2026-12-18
 - Duration: 35–45 seconds
 - ClickUp: https://app.clickup.com/t/123mehfy7e6
+- Platforms: Instagram Reels, TikTok
+- Primary audience: CEOs & Co-founders
+- Pillar: Product Management & Business
+- Source: Real Experience
 
 ## Hook
 
@@ -10,15 +14,15 @@
 
 ## Spoken script
 
-ممكن يكون إنك بنيت الحل الصح لمشكلة غلط. الـcode يتصلّح، لكن شهور التنفيذ على Assumption غير مختبر صعب ترجعها. عشان كده Product Discovery قبل التطوير مش رفاهية: افهم المستخدم، راقب السلوك، وحدد أين يتعطل فعلًا. في شغلي استخدمت Session Recordings وHeatmaps مثل Clarity وHotjar لكشف Bugs ومشاكل UX لا تظهر في تقارير الفريق. الدليل السلوكي أحيانًا يغيّر فهمك للمشكلة بالكامل.
+ممكن يكون إنك بنيت حل ممتاز… لمشكلة غلط. الـbug اللي في الكود بيتصلح. إنما شهور شغل على افتراض محدش اختبره، دي ما بترجعش. عشان كده الـProduct Discovery قبل التطوير مش رفاهية. لازم تشوف المستخدم بيعمل إيه فعلًا، مش اللي إنت فاكره بيعمله. في شغلي استخدمت Session Recordings وHeatmaps من أدوات زي Clarity وHotjar، وطلّعت Bugs ومشاكل UX ما كانتش بتظهر في تقارير الفريق. ساعات اللي بتشوفه بعينك بيغيّر فهمك للمشكلة كلها.
 
 ## Closing
 
-قبل ما تسأل “هنبنيها إزاي؟” اسأل “إيه الدليل إن دي المشكلة؟”
+قبل "هنبنيها إزاي؟" اسأل: إيه الدليل إن دي المشكلة أصلًا؟
 
 ## Caption
 
-أغلى خطأ هو تنفيذ ممتاز لاتجاه خاطئ.
+أغلى غلطة: تنفيذ ممتاز في اتجاه غلط.
 
 ## Material checklist
 

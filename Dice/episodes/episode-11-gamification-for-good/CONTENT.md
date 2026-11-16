@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Product Builders
 
 ## Content Strategy
 
@@ -63,7 +64,7 @@ Hopeful, warm, and empowering. Shift the series from critique to constructive de
 
 ### Caption
 
-الـGamification الإيجابية لا تجعل النقاط هي الغاية. صمّم للاختيار، والتحسن الحقيقي، والدعم الاجتماعي؛ ثم دع الـmechanic تتراجع بينما تبقى المهارة أو العادة.
+الـGamification المفيدة ما بتخليش النقط هي الهدف. صمّم للاختيار، وللتحسن الحقيقي، وللدعم من الناس حواليك. وبعدين سيب الـmechanic ترجع لورا، والمهارة أو العادة هي اللي تفضل.
 
 ### Verified reference notes
 

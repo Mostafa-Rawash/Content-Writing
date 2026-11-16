@@ -5,6 +5,7 @@
 - Workflow status: Idea Backlog
 - Publish date: TBD
 - Target duration: 45–75 seconds
+- Primary audience: Product Builders
 
 ## Content Strategy
 
@@ -63,7 +64,7 @@ Reflective finale with quiet authority. Less fast-cut energy than prior episodes
 
 ### Caption
 
-التصميم يؤثر في السلوك، لذلك المسؤولية ليست اختيارية. اختبر كل mechanic أمام هدف المستخدم، الشفافية، التحكم، حماية الفئات الأكثر عرضة، والاستدامة—وقِس القيمة والثقة بجانب engagement.
+التصميم بيأثر في السلوك، فالمسؤولية مش اختيارية. اختبر أي mechanic قدام هدف المستخدم، والشفافية، والتحكم، وحماية الناس الأكثر عرضة للضرر، والاستمرارية. وقيس القيمة والثقة جنب الـengagement.
 
 ### Reference notes
 
